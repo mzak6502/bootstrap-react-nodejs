@@ -5,3 +5,5 @@
 2) Installed Packages (Bootstrap, jQuery, Popper.js), added Required CSS, JS files path from the installed packages to the index.html file. (Commit: 'Setup done for index.html Page')
 
 3) Learned and Implemented bootstrap responsive/other classes on the index.html page. (Commit: 'Bootstrap Grid Part 1' )
+
+4) Learned/Applied more about Bootstrap classes and also added some custom CSS properties inside css/styles.css file. (Commit: 'Bootstrap Grid Part 2' )
