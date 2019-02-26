@@ -19,3 +19,5 @@
 9) Learned/Applied bootstrap forms. (Commit: 'Forms')
 
 10) Learned/Applied bootstrap tables and cards. (Commit: 'Tables and cards')
+
+11) Learned/Applied bootstrap media components. (Commit: 'Images and media')
