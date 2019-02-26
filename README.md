@@ -13,3 +13,5 @@
 6) Learned/Applied about various navigation tools bootstrap provides. (Commit: 'Navbar and Breadcrumbs')
 
 7) Learned/Applied various font awesome icons and also bootstrap-social icons. (commit: 'Icon Fonts')
+
+8) Learned/Applied buttons and button group. (Commit: 'Buttons') 
