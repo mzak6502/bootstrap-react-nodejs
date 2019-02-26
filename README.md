@@ -21,3 +21,5 @@
 10) Learned/Applied bootstrap tables and cards. (Commit: 'Tables and cards')
 
 11) Learned/Applied bootstrap media components. (Commit: 'Images and media')
+
+12) Learned very little about bootstrap alerts. (Commit: 'Alerting users')
