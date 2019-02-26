@@ -11,3 +11,5 @@
 5) Applied all Tasks required for completion of Assignment 1 on the aboutus.html page. (Commit: 'Assignment 1')
 
 6) Learned/Applied about various navigation tools bootstrap provides. (Commit: 'Navbar and Breadcrumbs')
+
+7) Learned/Applied various font awesome icons and also bootstrap-social icons. (commit: 'Icon Fonts')
