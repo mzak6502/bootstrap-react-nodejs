@@ -23,3 +23,5 @@
 11) Learned/Applied bootstrap media components. (Commit: 'Images and media')
 
 12) Learned very little about bootstrap alerts. (Commit: 'Alerting users')
+
+13) Applied all Tasks required for completion of Assignment 2 on the index.html page. (Commit: 'Assignment 2')
